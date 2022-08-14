@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gavrilikhin-d
 - 👀 I’m interested in C/C++ programming
-- 🌱 I’m currently learning Discord API
-- 💞️ I’m looking to collaborate on open-source projects
+- 🌱 I’m currently working on PPL
+- 💞️ I’m looking to help with PPL
 - 📫 How to reach me: gavrilikhin.daniil@gmail.com
 
 <!---
