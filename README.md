@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @gavrilikhin-d
-- 👀 I’m interested in C/C++ programming
-- 🌱 I’m currently working on PPL
-- 💞️ I’m looking to help with PPL
-- 📫 How to reach me: gavrilikhin.daniil@gmail.com
+👋 Hi, I’m Gavrilikhin Daniil<br />
+Full Stack Engineer for over 4 years<br />
+Have a look at [my portfolio](https://gavrilikhin.dev)
+
 
 <!---
 gavrilikhin-d/gavrilikhin-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
